@@ -9,7 +9,7 @@ An automated safety system built on the **ESP32** platform that uses an **I2S mi
 
 ## 🎥 Project Demo 
 
-
+https://github.com/Srushtiii00/WomenSafetyAlert/edit/main/README.md
 [Watch the Full Project Demo Here]
 (https://drive.google.com/file/d/1wJDoBH7Qt-Dm3v584BKG1vMfavGcXAYN/view?usp=drive_link)
 
@@ -48,12 +48,7 @@ This project, "WomenSafetyAlert," is built around the ESP32 microcontroller for 
 1.  Open the `src/main.cpp` file in the Arduino IDE or VS Code (with PlatformIO).
 2.  Select your ESP32 board and click **Upload**.
 
-## 👥 Team / Contributors
 
-This project was developed as a collaborative effort by the following team members:
-
-
----
 
 ## 👥 Team / Contributors
 
