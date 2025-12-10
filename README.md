@@ -62,7 +62,7 @@ This project was developed as a collaborative effort by the following team membe
 | Name | Role / Primary Contributions | Reference   |
 | :--- | :--- | :--- |
 | **Srushti Ingle** | Project Lead, I2S Integration, Hardware Prototyping | https://github.com/Srushtiii00/WomenSafetyAlert.git ,srushti.ingle.aids.2023@vpkbiet.org|
-| **Vrushali Ithape** | Alert Logic (Sound Detection), Email Integration, Testing | vrushali.ithape.aids,2023@vpkbiet.org
+| **Vrushali Ithape** | Alert Logic (Sound Detection), Email Integration, Testing | vrushali.ithape.aids.2023@vpkbiet.org
 | **Prachi Gurav** | Geolocation API Implementation, Documentation, Backend Review | prachi.gurav.aids.2023@vpkbiet.org
 | **Vaishnavi Ghode** | Email Alert System using ESP_Mail_Client, managing SMTP credentials, drafting the README.md and Documentation.|vaishnavi.ghode.aids.2023@vpkbiet.org
 
