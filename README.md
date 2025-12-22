@@ -9,9 +9,7 @@ An automated safety system built on the **ESP32** platform that uses an **I2S mi
 
 ## 🎥 Project Demo 
 
-https://github.com/Srushtiii00/WomenSafetyAlert/edit/main/README.md
-[Watch the Full Project Demo Here]
-(https://drive.google.com/file/d/1wJDoBH7Qt-Dm3v584BKG1vMfavGcXAYN/view?usp=drive_link)
+https://drive.google.com/file/d/1wJDoBH7Qt-Dm3v584BKG1vMfavGcXAYN/view?usp=drive_link[Watch the Full Project Demo Here]
 
 ## ✨ Key Features & Technical Details
 * **Real-time Audio Processing:** Utilizes the ESP32's I2S peripheral for efficient digital audio capture.
